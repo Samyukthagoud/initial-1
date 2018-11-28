@@ -8,7 +8,9 @@ system.out.println("soft drinks");
 system.out.println("soft drinks");
 system.out.println("cold drinks");
 system.out.println("cold drinks");
-
+system.out.println("tea drinks");
+system.out.println("cold drinks");
+system.out.println("cold drinks");
 
 }
 }
